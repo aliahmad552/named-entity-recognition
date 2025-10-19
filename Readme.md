@@ -4,11 +4,7 @@ This is my deep learning project for **Named Entity Recognition (NER)** where I 
 The goal of this project is to identify entities like **Person, Organization, Location, Time, etc.** from a given sentence.
 
 ---
-## 🖼️ Project Screenshot
 
-Here is how the UI looks:
-
-![NER UI](static/form.png)
 
 ## 🚀 My Journey
 
@@ -66,23 +62,11 @@ It allows the user to enter a sentence, sends it to the FastAPI backend, and sho
 
 ---
 
-## 🧰 Project Structure
+## 🖼️ Project Screenshot
 
-named_entity_recognition/
-│
-├── app/
-│ ├── main.py
-│ ├── model_loader.py
-│ └── test.py
-│
-├── model/
-│ ├── ner_model.h5
-│ └── word2index.pkl
-│
-├── templates/
-│ └── index.html
-│
-└── README.md
+Here is how the UI looks:
+
+![NER UI](static/form.png)
 
 ## 🪄 How to Run
 
