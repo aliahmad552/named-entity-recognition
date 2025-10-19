@@ -18,6 +18,15 @@ It worked perfectly with **TensorFlow 2.19.0** and gave almost the **same accura
 
 ---
 
+
+## 🖼️ Project Screenshot
+
+Here is how the UI looks:
+
+![NER UI](static/form.png)
+
+---
+
 ## ✅ Model Performance
 
 - Model used: **BiLSTM + Softmax**
@@ -62,11 +71,6 @@ It allows the user to enter a sentence, sends it to the FastAPI backend, and sho
 
 ---
 
-## 🖼️ Project Screenshot
-
-Here is how the UI looks:
-
-![NER UI](static/form.png)
 
 ## 🪄 How to Run
 
